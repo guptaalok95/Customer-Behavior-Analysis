@@ -37,15 +37,7 @@
 * Customer Segmentation Insights
 * Subscription Behavior Tracking
 
-## Business Recommendations
-
-* Increase subscriber acquisition through targeted offers
-* Develop loyalty programs for repeat customers
-* Optimize discount strategies
-* Promote top-performing products
-* Focus marketing on high-value customer segments
-
 ## Author
 
-**Your Name**
+**Alok Gupta**
 Data Analyst | Python | MySQL | Power BI
